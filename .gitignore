@@ -172,3 +172,4 @@ mlruns/
 
 # Draw.io
 *.drawio
+.aider*
